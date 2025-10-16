@@ -1,0 +1,14 @@
+C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab01\bai04\bin\Debug\net8.0\bai04.exe
+C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab01\bai04\bin\Debug\net8.0\bai04.deps.json
+C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab01\bai04\bin\Debug\net8.0\bai04.runtimeconfig.json
+C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab01\bai04\bin\Debug\net8.0\bai04.dll
+C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab01\bai04\bin\Debug\net8.0\bai04.pdb
+C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab01\bai04\obj\Debug\net8.0\bai04.GeneratedMSBuildEditorConfig.editorconfig
+C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab01\bai04\obj\Debug\net8.0\bai04.AssemblyInfoInputs.cache
+C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab01\bai04\obj\Debug\net8.0\bai04.AssemblyInfo.cs
+C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab01\bai04\obj\Debug\net8.0\bai04.csproj.CoreCompileInputs.cache
+C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab01\bai04\obj\Debug\net8.0\bai04.dll
+C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab01\bai04\obj\Debug\net8.0\refint\bai04.dll
+C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab01\bai04\obj\Debug\net8.0\bai04.pdb
+C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab01\bai04\obj\Debug\net8.0\bai04.genruntimeconfig.cache
+C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab01\bai04\obj\Debug\net8.0\ref\bai04.dll
