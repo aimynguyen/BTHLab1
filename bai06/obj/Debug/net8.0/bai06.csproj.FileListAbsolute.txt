@@ -12,3 +12,4 @@ C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab01\bai06\obj\Debug\net8.0\refi
 C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab01\bai06\obj\Debug\net8.0\bai06.pdb
 C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab01\bai06\obj\Debug\net8.0\bai06.genruntimeconfig.cache
 C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab01\bai06\obj\Debug\net8.0\ref\bai06.dll
+C:\AIMY-FOLDER\HK3\LTTQ\ThucHanh\baiTapThucHanhLab01\bai06\obj\Debug\net8.0\bai06.sourcelink.json

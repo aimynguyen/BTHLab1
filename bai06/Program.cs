@@ -183,8 +183,8 @@ class Program
         Matrix matrix = new Matrix(n,m);
 
         matrix.Xuat();//xuat matrix
-        Console.WriteLine($"Phan tu lon nhat {matrix.FindMin()}");//tim pt lon nhat
-        Console.WriteLine($"Phan tu nho nhat {matrix.FindMax()}");//tim pt nho nhat
+        Console.WriteLine($"Phan tu nho nhat {matrix.FindMin()}");//tim pt lon nhat
+        Console.WriteLine($"Phan tu lon nhat {matrix.FindMax()}");//tim pt nho nhat
         matrix.FindMaxSumRow();//tim dong co tong lon nhat
         Console.WriteLine($"Tong cac so khong phai nguyen to: {matrix.SumNonPrime()}");//tinh tong so khong phai nguyen to
         //xoa dong k
